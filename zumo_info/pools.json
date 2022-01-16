@@ -1,0 +1,82 @@
+[
+    {
+        "name": "VTHO/VVET",
+        "token0Symbol": "VTHO",
+        "token1Symbol": "VVET",
+        "address": "0x29a996b0ebb7a77023d091c9f2ca34646bea6ede",
+        "token0Address": "0x0000000000000000000000000000456E65726779",
+        "token1Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53"
+    },
+    {
+        "name": "VVET/SHA",
+        "token0Symbol": "VVET",
+        "token1Symbol": "SHA",
+        "address": "0x1a8abd6d5627eb26ad71c0c7ae5224cdc640faf3",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0x5db3c8a942333f6468176a870db36eef120a34dc"
+    },
+    {
+        "name": "VVET/MVG",
+        "token0Symbol": "VVET",
+        "token1Symbol": "MVG",
+        "address": "0xfe778e3491ae917e76e85ba8d30426ee1cccba06",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0x99763494a7b545f983ee9fe02a3b5441c7ef1396"
+    },
+    {
+        "name": "VEX/VVET",
+        "token0Symbol": "VEX",
+        "token1Symbol": "VVET",
+        "address": "0xc8c0b13f1152dbd825ecf67c245291aee215a109",
+        "token0Address": "0x0bd802635eb9ceb3fcbe60470d2857b86841aab6",
+        "token1Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53"
+    },
+    {
+        "name": "VVET/VPU",
+        "token0Symbol": "VVET",
+        "token1Symbol": "VPU",
+        "address": "0x10ba14b7afec1f3ab701be127ab436de21cdd055",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0xb0821559723db89e0bd14fee81e13a3aae007e65"
+    },
+    {
+        "name": "WoV/VVET",
+        "token0Symbol": "WoV",
+        "token1Symbol": "VVET",
+        "address": "0x94355b3079a38a265e6b7a825ab6a06495c2d419",
+        "token0Address": "0x170f4ba8e7acf6510f55db26047c83d13498af8a",
+        "token1Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53"
+    },
+    {
+        "name": "VVET/JUR",
+        "token0Symbol": "VVET",
+        "token1Symbol": "JUR",
+        "address": "0x629965c25e1c5d57fb268b23a79c76520bca6698",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0x46209d5e5a49c1d403f4ee3a0a88c3a27e29e58d"
+    },
+    {
+        "name": "VVET/HAI",
+        "token0Symbol": "VVET",
+        "token1Symbol": "HAI",
+        "address": "0x8f34a3764750feb71264e9a105cf07fc301d70d1",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0xacc280010b2ee0efc770bce34774376656d8ce14"
+    },
+    {
+        "name": "VVET/VEED",
+        "token0Symbol": "VVET",
+        "token1Symbol": "VEED",
+        "address": "0x72189e536dcb19bc6e1b4918a07b60ef8aca41d8",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0x67fd63f6068962937ec81ab3ae3bf9871e524fc9"
+    },
+    {
+        "name": "OCE/VVET",
+        "token0Symbol": "OCE",
+        "token1Symbol": "VVET",
+        "address": "0xc75668ce138dd65f4de37d986a84ebdef71cda02",
+        "token0Address": "0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14",
+        "token1Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53"
+    }
+]

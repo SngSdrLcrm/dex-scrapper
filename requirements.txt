@@ -1,0 +1,1 @@
+thor-requests>=1.1.2
