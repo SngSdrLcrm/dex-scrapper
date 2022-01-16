@@ -14,4 +14,5 @@ python3 post_process.py                       # Enrich the receipts, inject deco
 python3 analyze.py                            # Analyze the current exchange status (pools, etc)
 python3 personal_now.py [addr] [node_url]     # Summarize a person's lp holdings on the DEX
 python3 personal_history.py [addr]            # Person's trading history on DEX
+python3 calculate_apy.py [node_url]           # Calculate pools APY (no token reward included)
 ```

@@ -1,4 +1,5 @@
 /zumo_results/*.json
+.vscode
 
 .DS_Store
 # Byte-compiled / optimized / DLL files

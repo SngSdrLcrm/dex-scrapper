@@ -4,6 +4,7 @@ from datetime import datetime
 from thor_requests.utils import is_reverted
 
 ### CONSTANTS ###
+OUTPUT_ADDRESSES = True
 
 BLOCK_INPUT = './zumo_results/blocks.json'
 TX_INPUT = './zumo_results/txs.json'
@@ -193,3 +194,25 @@ timestamp = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
 ANALYZE_OUTPUT = f'./zumo_results/Analyze_{timestamp}.json'
 with open(ANALYZE_OUTPUT, 'w') as f:
     json.dump(result, f, indent=2)
+
+if OUTPUT_ADDRESSES:
+    TRADERS_OUTPUT = f'./zumo_results/Traders_{timestamp}.json'
+    with open(TRADERS_OUTPUT, 'w') as f:
+        json.dump({
+            'count': len(traders),
+            'items': list(traders)
+        }, f, indent=2)
+    
+    LPS_OUTPUT = f'./zumo_results/LPs_{timestamp}.json'
+    with open(LPS_OUTPUT, 'w') as f:
+        json.dump({
+            'count': len(lps),
+            'items': list(lps)
+        }, f, indent=2)
+
+    BOTH_TRADERS_AND_LPS_OUTPUT = f'./zumo_results/Both_Traders_and_LPs_{timestamp}.json'
+    with open(BOTH_TRADERS_AND_LPS_OUTPUT, 'w') as f:
+        json.dump({
+            'count': len(both_trader_and_lp),
+            'items': list(both_trader_and_lp)
+        }, f, indent=2)

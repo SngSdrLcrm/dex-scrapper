@@ -1,5 +1,21 @@
 [
     {
+        "name": "VVET/VeUSD",
+        "token0Symbol": "VVET",
+        "token1Symbol": "VeUSD",
+        "address": "0x58108ba70902869f42eb12c5fdbc0cefab0ad13d",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0x4e17357053da4b473e2daa2c65c2c949545724b8"
+    },
+    {
+        "name": "VTHO/VeUSD",
+        "token0Symbol": "VTHO",
+        "token1Symbol": "VeUSD",
+        "address": "0x7a3d485cc586d2c5543b0df3b93043cfa8aec6d6",
+        "token0Address": "0x0000000000000000000000000000456E65726779",
+        "token1Address": "0x4e17357053da4b473e2daa2c65c2c949545724b8"
+    },
+    {
         "name": "VTHO/VVET",
         "token0Symbol": "VTHO",
         "token1Symbol": "VVET",
@@ -78,5 +94,45 @@
         "address": "0xc75668ce138dd65f4de37d986a84ebdef71cda02",
         "token0Address": "0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14",
         "token1Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53"
+    },
+    {
+        "name": "VVET/PLA",
+        "token0Symbol": "VVET",
+        "token1Symbol": "PLA",
+        "address": "0xb79d201ec8c187e68dad902cc5a14b54b3a7df40",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f"
+    },
+    {
+        "name": "VVET/EHrT",
+        "token0Symbol": "VVET",
+        "token1Symbol": "PLA",
+        "address": "0x0bb35811213df1c6247041e456639b83dd4e4017",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0xf8e1faa0367298b55f57ed17f7a2ff3f5f1d1628"
+    },
+    {
+        "name": "GEMS/VVET",
+        "token0Symbol": "GEMS",
+        "token1Symbol": "VVET",
+        "address": "0x2e44311903433d5e6c7dd5ae2e2936285256ea1a",
+        "token0Address": "0x28c61940bdcf5a67158d00657e8c3989e112eb38",
+        "token1Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53"
+    },
+    {
+        "name": "VVET/YeeT",
+        "token0Symbol": "VVET",
+        "token1Symbol": "YeeT",
+        "address": "0x179e1e32cc5ea87988c4accb7d575fac26900b89",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0xae4c53b120cba91a44832f875107cbc8fbee185c"
+    },
+    {
+        "name": "VVET/SNK",
+        "token0Symbol": "VVET",
+        "token1Symbol": "SNK",
+        "address": "0x7019c389cfaeb6b7c4bff91cdc714fc7e5a5197c",
+        "token0Address": "0x45429a2255e7248e57fce99e7239aed3f84b7a53",
+        "token1Address": "0x540768b909782c430cc321192e6c2322f77494ec"
     }
 ]
